@@ -1,0 +1,8 @@
+com\newname\dao\UserDao.class
+com\newname\dao\UserDaoImpl.class
+com\newname\service\UserServiceImpl.class
+com\newname\resources\JakartaEE8Resource.class
+com\newname\model\User.class
+com\newname\service\UserService.class
+com\newname\controller\UserController.class
+com\newname\JakartaRestConfiguration.class
